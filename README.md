@@ -27,3 +27,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+###Vue SPA 首屏加载优化实践
+1. 注意vue-cli3中webpackconfig
+2. 132
