@@ -28,7 +28,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-#Vue SPA 首屏加载优化实践
+# Vue SPA 首屏加载优化实践
 1. 注意vue-cli3中webpackconfig
 2. 借助[Vue SPA 首屏加载优化实践](https://juejin.im/post/5a291092518825293b50366d)
 3. 配置vue.config.js则必须重启
